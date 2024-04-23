@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tasin</p>
+<p align="left">My name is Md. Tasin Hossain Toha </p>
 
 ###
 
@@ -29,9 +29,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TasinToha/TasinToha/output/snake.svg" alt="Snake animation" />
-
-###
