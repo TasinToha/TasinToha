@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Md. Tasin Hossain Toha </p>
+<p align="left">I am Md. Tasin Hossain Toha is an undergraduate student in Computer Science and Engineering. </p>
 
 ###
 
