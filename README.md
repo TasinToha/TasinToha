@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Toha </p>
+<p align="left">Let’s turn coffee into code and chaos into innovation! ☕</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Undergraduate student in Computer Science and Engineering <br>✨ Crafting Bugs & Solutions Since 2020 <br>📚 Currently diving into Machine Learning <br> 💡 Passionate about building innovative tools and exploring research opportunities. </p>
+<p align="left">👨🏻‍🎓 Undergraduate student in Computer Science and Engineering <br>✨ Crafting Bugs & Solutions Since 2020 <br>📚 Currently feeding my code to Machine Learning models <br>💡 I write code that sometimes works... on the second try. <br>🎯 Future goals: Master the art of debugging, and find out where all the semicolons went. </p>
 
 ###
 
