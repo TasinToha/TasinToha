@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Md. Tasin Hossain Toha </p>
+<p align="left">I am Toha </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Undergraduate student in Computer Science and Engineering <br>✨ Creating bugs since 2020 <br>📚 I'm currently learning Machine Learning</p>
+<p align="left">👨🏻‍🎓 Undergraduate student in Computer Science and Engineering <br>✨ Crafting Bugs & Solutions Since 2020 <br>📚 Currently diving into Machine Learning <br> 💡 Passionate about building innovative tools and exploring research opportunities. </p>
 
 ###
 
